@@ -1,0 +1,13 @@
+televisao
+cama
+guarda_roupa
+estante
+ventilador
+ar_condicionado
+quadro
+espelho
+
+
+
+
+
